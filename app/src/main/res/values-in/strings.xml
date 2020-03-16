@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_description">Item Description</string>
+
+    <string name="movie_title">Film</string>
+    <string name="tvshow_title">Acara TV</string>
+
+    <string name="overview">Ringkasan</string>
+    <string name="movies_title">Movie Title</string>
+    <string name="tvs_title">TV Title</string>
+    <string name="tv_show_poster">Poster Acara TV</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="grade">Nilai</string>
+    <string name="poster">Poster</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_from_favorite">Dihapus dari Favorite</string>
+    <string name="add_to_favorite">Ditambahkan ke Favorite</string>
+    <string name="no_descrription">Deskripsi tidak tersedia dalam bahasa Indonesia</string>
+    <string name="backdrop_photo">foto latar belakang</string>
+    <string name="hint_search_movie">Cari Film</string>
+    <string name="hint_search_tvShow">Cari Acara TV</string>
+    <string name="favorite_movie">Film Favorite</string>
+    <string name="key_reminder">reminder</string>
+    <string name="key_release">release</string>
+    <string name="setting">Pengaturan</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="missing_you">Movie Catalogue kangen nih</string>
+    <string name="release_today">dirilis hari ini loh</string>
+    <string name="reminder_summary">Mengingatkan untuk kembali ke aplikasi</string>
+    <string name="release_summary">Notifikasi film yang rilis hari ini</string>
+    <string name="reminder_title">Pengingat Harian</string>
+    <string name="release_title">Rilis Hari Ini</string>
+    <string name="notification">Notifikasi</string>
+</resources>

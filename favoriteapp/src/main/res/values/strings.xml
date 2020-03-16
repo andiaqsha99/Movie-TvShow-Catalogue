@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Favorite Movie Catalogue</string>
+    <string name="grade">Grade</string>
+    <string name="poster">Poster</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_description">Item Description</string>
+    <string name="movie_title">Movies</string>
+    <string name="tvshow_title">TV Show</string>
+    <string name="no_description">No Description</string>
+    <string name="overview">Overview</string>
+    <string name="movies_title">Movie Title</string>
+</resources>
